@@ -18,8 +18,8 @@ public class Ejemplo03 {
         System.out.printf("El valor de la suma es: %d\n", valor);
         
         // System.out.printf("El valor de la suma es: %d\n", obtenerSuma(10, 30));
-        System.out.println(suma);
-// nos da error ya que la variable suma, es una varible local de obtenerSuma
+        //System.out.println(suma);
+        // nos da error ya que la variable suma, es una varible local de obtenerSuma
     }
     
     
