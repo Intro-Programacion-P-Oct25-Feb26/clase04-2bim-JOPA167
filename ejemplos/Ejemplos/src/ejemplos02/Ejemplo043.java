@@ -24,7 +24,7 @@ public class Ejemplo043 {
         
 /*Creamos 2 arreglos con varias datos de tipo entero, luego creamos un for, para iterar
         en cada arreglo y a su vez creamos 2 variables para que reciban estos valonres
-        y poder enviarlos como argumentos a la funcion obtener suma
+        y poder enviarlos como argumentos a la funcion obtenerSuma
         */
     }
         
